@@ -1,0 +1,32 @@
+@charset "utf-8";
+.colornav {
+    background-color: #3B1DEA;
+}
+.colornavcinna {
+    background-color: #92C3FF;
+}
+
+.flechas {
+    -webkit-box-shadow: 0px 0px #FF0004;
+    box-shadow: 0px 0px #FF0004;
+}
+.texticos {
+    text-align: left;
+}
+
+
+.cinnamoroll {
+    color: #FFFFFF;
+}
+.mymelody {
+    color: #FF00C6;
+}
+.sanrio {
+    color: #FFDD00;
+}
+.colornavmymel {
+    background-color: #FF78D5;
+}
+.mymelodiespecial {
+    color: #740055;
+}
